@@ -72,14 +72,12 @@ In summary, if you are seeking affordable housing, it may be advisable to compro
 
 
 Next steps
-More research is required to have a more integrated and informative dataset finding more factors that influence the price.
 
+More research is required to have a more integrated and informative dataset finding more factors that influence the price.
 
 More time would be required to fine_tune our findings and model results.
 
-
 Using datasets from other counties to be able to better advice our customers from comparing the dataset results.
-
 
 The agency may have a questionnaire to identify their strengths, weaknesses, opportunities and threats and use this information to prioritize recommendations that would help address their weaknesses and take advantage of their opportunities and strengths
 
